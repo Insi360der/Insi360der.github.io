@@ -1,3 +1,4 @@
+http://example.com/friends/index.html
 http://example.com/2024/01/14/title/
 http://example.com/2024/01/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
 http://example.com/2024/01/07/hello-world/
